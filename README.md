@@ -17,4 +17,4 @@
 ### 📫 How to Reach Me
 - 💼 LinkedIn: [https://www.linkedin.com/in/ayamokadem/]  
 - 📧 Email: [eyamk82@gmail.com]  
-- 🌍 Portfolio: *Coming soon*  
+- 🌍 Portfolio: [https://eyaamk.github.io/portfolio/] 
